@@ -1,0 +1,6 @@
+git init
+git add -a
+git status
+git comit -m “Esta es mi primer versión”
+git remote add https://github.com/jorgeaxelhernandez440/PruebaGit.git
+git push -u master
